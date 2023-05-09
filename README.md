@@ -1,1 +1,1 @@
-# Spark_GRIP_Internship
+# GRIP Internship
