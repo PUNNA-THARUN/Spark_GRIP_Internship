@@ -10,4 +10,4 @@ Task-5 EDA on IPL Data: [LinkedIn Link](https://www.linkedin.com/posts/punna-tha
 
 Task-6 Decission Tree Model Algo on Iris Data: [LinkedIn Link](https://www.linkedin.com/posts/punna-tharun_task6-thesparksfoundation-intern-activity-7065566069393920000-7JQA?utm_source=share&utm_medium=member_desktop)
 
-Task-8 Here is the Video Link for Covid Analysis - [YouTube Link](https://youtu.be/hRefDCyQ80s)
+Task-8 Here is the Video Link for Covid Analysis - [YouTube Link](https://youtu.be/hRefDCyQ80s)  [LinkedIn Link](https://www.linkedin.com/posts/punna-tharun_task8-thesparksfoundation-intern-activity-7065645979835789313-6a31?utm_source=share&utm_medium=member_desktop)
